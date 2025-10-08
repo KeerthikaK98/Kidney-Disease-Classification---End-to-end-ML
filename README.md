@@ -12,3 +12,7 @@ Setup Requirements:
 6) create a virtual environment -> check for python version -  py ---version ; py -3.9 -m venv .venv
 7) activate it -> .\.venv\Scripts\activate
 8) pip install -r requirements.txt
+9) Commit the changes
+10) create main.py
+11) create common.py under utils
+12) Create main.py
