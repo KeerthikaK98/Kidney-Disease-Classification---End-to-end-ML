@@ -16,3 +16,8 @@ Setup Requirements:
 10) create main.py
 11) create common.py under utils
 12) Create main.py
+13) Create a folder to add images used for classification in the project folder. Create a zip and move it to Google Drive
+14) Download the file in vs code
+15) Create data ingestion ipynb file under research folder
+16) Update __init__.py file under constants
+17) Update the pipeline-> entity-> configuration manager-> pipeline-> main.py
