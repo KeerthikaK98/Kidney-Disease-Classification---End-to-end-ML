@@ -16,4 +16,6 @@ dist/
 .jupyter/
 
 
-artifacts/*
+artifacts/*.venv/
+data/
+models/
