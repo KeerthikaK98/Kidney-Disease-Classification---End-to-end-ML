@@ -19,3 +19,4 @@ dist/
 artifacts/*.venv/
 data/
 models/
+artifacts/
