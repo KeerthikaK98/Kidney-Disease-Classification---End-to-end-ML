@@ -18,6 +18,8 @@ Setup Requirements:
 12) Create main.py
 13) Create a folder to add images used for classification in the project folder. Create a zip and move it to Google Drive
 14) Download the file in vs code
-15) Create data ingestion ipynb file under research folder
+15) 01 Create data ingestion ipynb file under research folder
 16) Update __init__.py file under constants
 17) Update the pipeline-> entity-> configuration manager-> pipeline-> main.py
+18) 02 Create base model ipynb file under research folder
+19) This projects VGG16 as base model ->  Update the pipeline-> entity-> configuration manager-> pipeline-> main.py
